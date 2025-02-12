@@ -2,5 +2,5 @@ const age = 24;
 const name = "harry";
 
 function sayName(){
-    console.log('My name is' + name)
+    console.log('hey! I am here')
 }
