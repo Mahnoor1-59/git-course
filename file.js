@@ -15,4 +15,5 @@ function feat_B(){
 }
 function feat_C(){
     console.log('new feature C')
+    console.log('hello world')
 }
