@@ -10,3 +10,6 @@ function addition(){
     console.log("This is the new feature")
     console.log("its name is addition")
 }
+function feat_B(){
+    console.log('new feature b')
+}
