@@ -6,3 +6,7 @@ let b = 3
 function sum(){
     console.log(a + b)
 }
+function addition(){
+    console.log("This is the new feature")
+    console.log("its name is addition")
+}
