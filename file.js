@@ -13,3 +13,6 @@ function addition(){
 function feat_B(){
     console.log('new feature b')
 }
+function feat_C(){
+    console.log('new feature C')
+}
